@@ -125,5 +125,31 @@ margin-top: 20px;
     border: 1px solid ;
     padding: 32px;
     border-radius: 16px;
+    margin-bottom: 100px;
 }
 
+/* skill container  */
+.skills-container{
+    display: flex;
+    margin-top: 60px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
+.skill{
+    border: 1px solid white;
+    padding: 30px;
+    width: 33%;
+    height: 33%;
+    background-color: #ffdad931;
+    border-radius: 16px;
+}
+.skill-2{
+    background-color: rgba(255, 228, 196, 0.325);
+}
+.skill-3{
+background-color: rgba(210, 185, 214, 0.167);
+}
+.more{
+    color: black;
+}
